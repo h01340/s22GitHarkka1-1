@@ -1,1 +1,9 @@
-Lauri: Tässä päivittelen, testailen laitteita
+
+Jokainen kirjoittaa tähän tiedostoon alla olevaan tyyliin
+Minna: tälläinen tästä nyt tuli
+Otto: juupase juu
+Rane: kyllä näin on
+Seikku: täällätääällä
+Eli ei tämän kummempaa proosaa, kunhan vain jokainen päivittelee yhtäaikaa tätä tiedostoa.
+
+Lauri: päivittelen tässä, testailen laitteita
